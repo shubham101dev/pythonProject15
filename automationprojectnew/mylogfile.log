@@ -1,0 +1,74 @@
+01/17/2023 06:11:40 PM: DEBUG: driver not found in PATH, trying Selenium Manager
+01/17/2023 06:11:40 PM: DEBUG: Executing: C:\Users\nikub\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+01/17/2023 06:11:40 PM: DEBUG: Using driver at: C:\Users\nikub\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+01/17/2023 06:11:40 PM: DEBUG: Started executable: `chromedriver` in a child process with pid: 12068
+01/17/2023 06:11:40 PM: DEBUG: POST http://localhost:55411/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}}
+01/17/2023 06:11:40 PM: DEBUG: Starting new HTTP connection (1): localhost:55411
+01/17/2023 06:11:41 PM: DEBUG: http://localhost:55411 "POST /session HTTP/1.1" 200 792
+01/17/2023 06:11:41 PM: DEBUG: Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"108.0.5359.126","chrome":{"chromedriverVersion":"108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016})","userDataDir":"C:\\Users\\nikub\\AppData\\Local\\Temp\\scoped_dir12068_2109427977"},"goog:chromeOptions":{"debuggerAddress":"localhost:55415"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:virtualAuthenticators":true},"sessionId":"b646d3ec686a564cdd38f8f7c1d3c08a"}} | headers=HTTPHeaderDict({'Content-Length': '792', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:41 PM: DEBUG: Finished Request
+01/17/2023 06:11:41 PM: DEBUG: POST http://localhost:55411/session/b646d3ec686a564cdd38f8f7c1d3c08a/url {"url": "https://gcreddy.com/project/admin/login.php"}
+01/17/2023 06:11:42 PM: DEBUG: http://localhost:55411 "POST /session/b646d3ec686a564cdd38f8f7c1d3c08a/url HTTP/1.1" 200 14
+01/17/2023 06:11:42 PM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:42 PM: DEBUG: Finished Request
+01/17/2023 06:11:42 PM: DEBUG: GET http://localhost:55411/session/b646d3ec686a564cdd38f8f7c1d3c08a/title {}
+01/17/2023 06:11:42 PM: DEBUG: http://localhost:55411 "GET /session/b646d3ec686a564cdd38f8f7c1d3c08a/title HTTP/1.1" 200 58
+01/17/2023 06:11:42 PM: DEBUG: Remote response: status=200 | data={"value":"osCommerce Online Merchant Administration Tool"} | headers=HTTPHeaderDict({'Content-Length': '58', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:42 PM: DEBUG: Finished Request
+01/17/2023 06:11:42 PM: INFO: ***********
+01/17/2023 06:11:42 PM: DEBUG: driver not found in PATH, trying Selenium Manager
+01/17/2023 06:11:42 PM: DEBUG: Executing: C:\Users\nikub\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+01/17/2023 06:11:42 PM: DEBUG: Using driver at: C:\Users\nikub\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+01/17/2023 06:11:42 PM: DEBUG: Started executable: `chromedriver` in a child process with pid: 15060
+01/17/2023 06:11:43 PM: DEBUG: POST http://localhost:55432/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}}
+01/17/2023 06:11:43 PM: DEBUG: Starting new HTTP connection (1): localhost:55432
+01/17/2023 06:11:43 PM: DEBUG: http://localhost:55432 "POST /session HTTP/1.1" 200 792
+01/17/2023 06:11:43 PM: DEBUG: Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"108.0.5359.126","chrome":{"chromedriverVersion":"108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016})","userDataDir":"C:\\Users\\nikub\\AppData\\Local\\Temp\\scoped_dir15060_2099968960"},"goog:chromeOptions":{"debuggerAddress":"localhost:55435"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:virtualAuthenticators":true},"sessionId":"876107f386f897e7026605a8d6eecffd"}} | headers=HTTPHeaderDict({'Content-Length': '792', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:43 PM: DEBUG: Finished Request
+01/17/2023 06:11:43 PM: DEBUG: POST http://localhost:55432/session/876107f386f897e7026605a8d6eecffd/url {"url": "https://gcreddy.com/project/admin/login.php"}
+01/17/2023 06:11:44 PM: DEBUG: http://localhost:55432 "POST /session/876107f386f897e7026605a8d6eecffd/url HTTP/1.1" 200 14
+01/17/2023 06:11:44 PM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:44 PM: DEBUG: Finished Request
+01/17/2023 06:11:44 PM: INFO: ********title is open
+01/17/2023 06:11:44 PM: DEBUG: GET http://localhost:55432/session/876107f386f897e7026605a8d6eecffd/title {}
+01/17/2023 06:11:44 PM: DEBUG: http://localhost:55432 "GET /session/876107f386f897e7026605a8d6eecffd/title HTTP/1.1" 200 58
+01/17/2023 06:11:44 PM: DEBUG: Remote response: status=200 | data={"value":"osCommerce Online Merchant Administration Tool"} | headers=HTTPHeaderDict({'Content-Length': '58', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:44 PM: DEBUG: Finished Request
+01/17/2023 06:11:44 PM: INFO: title is match
+01/17/2023 06:11:44 PM: DEBUG: driver not found in PATH, trying Selenium Manager
+01/17/2023 06:11:44 PM: DEBUG: Executing: C:\Users\nikub\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome
+01/17/2023 06:11:44 PM: DEBUG: Using driver at: C:\Users\nikub\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+01/17/2023 06:11:44 PM: DEBUG: Started executable: `chromedriver` in a child process with pid: 12528
+01/17/2023 06:11:45 PM: DEBUG: POST http://localhost:55451/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}}
+01/17/2023 06:11:45 PM: DEBUG: Starting new HTTP connection (1): localhost:55451
+01/17/2023 06:11:45 PM: DEBUG: http://localhost:55451 "POST /session HTTP/1.1" 200 792
+01/17/2023 06:11:45 PM: DEBUG: Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"108.0.5359.126","chrome":{"chromedriverVersion":"108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016})","userDataDir":"C:\\Users\\nikub\\AppData\\Local\\Temp\\scoped_dir12528_2107190621"},"goog:chromeOptions":{"debuggerAddress":"localhost:55454"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:virtualAuthenticators":true},"sessionId":"dfa54152eabeeb681845efa80ac5ba52"}} | headers=HTTPHeaderDict({'Content-Length': '792', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:45 PM: DEBUG: Finished Request
+01/17/2023 06:11:45 PM: DEBUG: POST http://localhost:55451/session/dfa54152eabeeb681845efa80ac5ba52/url {"url": "https://gcreddy.com/project/admin/login.php"}
+01/17/2023 06:11:46 PM: DEBUG: http://localhost:55451 "POST /session/dfa54152eabeeb681845efa80ac5ba52/url HTTP/1.1" 200 14
+01/17/2023 06:11:46 PM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:46 PM: DEBUG: Finished Request
+01/17/2023 06:11:46 PM: DEBUG: POST http://localhost:55451/session/dfa54152eabeeb681845efa80ac5ba52/element {"using": "xpath", "value": "//input[@name='username']"}
+01/17/2023 06:11:46 PM: DEBUG: http://localhost:55451 "POST /session/dfa54152eabeeb681845efa80ac5ba52/element HTTP/1.1" 200 88
+01/17/2023 06:11:46 PM: DEBUG: Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"0806dadd-078c-479b-8964-7f45f32910a1"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:46 PM: DEBUG: Finished Request
+01/17/2023 06:11:46 PM: DEBUG: POST http://localhost:55451/session/dfa54152eabeeb681845efa80ac5ba52/element/0806dadd-078c-479b-8964-7f45f32910a1/value {"text": "gcreddy", "value": ["g", "c", "r", "e", "d", "d", "y"], "id": "0806dadd-078c-479b-8964-7f45f32910a1"}
+01/17/2023 06:11:46 PM: DEBUG: http://localhost:55451 "POST /session/dfa54152eabeeb681845efa80ac5ba52/element/0806dadd-078c-479b-8964-7f45f32910a1/value HTTP/1.1" 200 14
+01/17/2023 06:11:46 PM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:46 PM: DEBUG: Finished Request
+01/17/2023 06:11:46 PM: DEBUG: POST http://localhost:55451/session/dfa54152eabeeb681845efa80ac5ba52/element {"using": "xpath", "value": "//input[@name='password']"}
+01/17/2023 06:11:46 PM: DEBUG: http://localhost:55451 "POST /session/dfa54152eabeeb681845efa80ac5ba52/element HTTP/1.1" 200 88
+01/17/2023 06:11:46 PM: DEBUG: Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"f2f8caa4-337e-4ab8-bf70-4b7fee9d9dc9"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:46 PM: DEBUG: Finished Request
+01/17/2023 06:11:46 PM: DEBUG: POST http://localhost:55451/session/dfa54152eabeeb681845efa80ac5ba52/element/f2f8caa4-337e-4ab8-bf70-4b7fee9d9dc9/value {"text": "Temp@2020", "value": ["T", "e", "m", "p", "@", "2", "0", "2", "0"], "id": "f2f8caa4-337e-4ab8-bf70-4b7fee9d9dc9"}
+01/17/2023 06:11:46 PM: DEBUG: http://localhost:55451 "POST /session/dfa54152eabeeb681845efa80ac5ba52/element/f2f8caa4-337e-4ab8-bf70-4b7fee9d9dc9/value HTTP/1.1" 200 14
+01/17/2023 06:11:46 PM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:46 PM: DEBUG: Finished Request
+01/17/2023 06:11:46 PM: DEBUG: POST http://localhost:55451/session/dfa54152eabeeb681845efa80ac5ba52/element {"using": "xpath", "value": "//button[@id='tdb1']"}
+01/17/2023 06:11:46 PM: DEBUG: http://localhost:55451 "POST /session/dfa54152eabeeb681845efa80ac5ba52/element HTTP/1.1" 200 88
+01/17/2023 06:11:46 PM: DEBUG: Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"62de036d-b6f5-4d20-80f1-0190674b030a"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:46 PM: DEBUG: Finished Request
+01/17/2023 06:11:46 PM: DEBUG: POST http://localhost:55451/session/dfa54152eabeeb681845efa80ac5ba52/element/62de036d-b6f5-4d20-80f1-0190674b030a/click {"id": "62de036d-b6f5-4d20-80f1-0190674b030a"}
+01/17/2023 06:11:48 PM: DEBUG: http://localhost:55451 "POST /session/dfa54152eabeeb681845efa80ac5ba52/element/62de036d-b6f5-4d20-80f1-0190674b030a/click HTTP/1.1" 200 14
+01/17/2023 06:11:48 PM: DEBUG: Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+01/17/2023 06:11:48 PM: DEBUG: Finished Request

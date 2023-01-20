@@ -1,0 +1,313 @@
+1673933768381	geckodriver	INFO	Listening on 127.0.0.1:64893
+1673933771467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64894" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikub\\AppData\\Local\\Temp\\rust_mozprofileUlbFRv"
+1673933772119	Marionette	INFO	Marionette enabled
+1673933772123	Marionette	INFO	Listening on port 64903
+Read port: 64903
+WebDriver BiDi listening on ws://127.0.0.1:64894
+1673933772254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikub\\AppData\\Local\\Temp\\rust_mozprofileUlbFRv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64894/devtools/browser/f53cf63e-d27a-4e22-9f16-1fc423ae5cf2
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Aeb%252Fg%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A333%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A489%250Aeb%252Fg%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A333%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A489%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A194%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27451%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30008%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30370%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Aeb%2Fg%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A333%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A489%0Aeb%2Fg%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A333%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A489%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A194%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27451%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30008%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30370%0A
+1673933806427	Marionette	INFO	Stopped listening on port 64903
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1673933806525	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@sys.mjs:51
+destroy()@sys.mjs:201
+deleteSession()@sys.mjs:142
+stop()@sys.mjs:221
+observe()@resource://gre/modules/AsyncShutdown.jsm:560
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673933784825	geckodriver	INFO	Listening on 127.0.0.1:65005
+1673933787883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65006" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nikub\\AppData\\Local\\Temp\\rust_mozprofileGtPBjk"
+1673933788133	Marionette	INFO	Marionette enabled
+1673933788137	Marionette	INFO	Listening on port 65015
+WebDriver BiDi listening on ws://127.0.0.1:65006
+Read port: 65015
+1673933788384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nikub\\AppData\\Local\\Temp\\rust_mozprofileGtPBjk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65006/devtools/browser/6b8d74a9-ce8a-47d7-9261-7a614513413f
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Aeb%252Fg%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A333%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A489%250Aeb%252Fg%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A333%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A489%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A194%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27451%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30008%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30370%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Aeb%2Fg%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A333%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A489%0Aeb%2Fg%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A333%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A489%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A194%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27451%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30008%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30370%0A
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 5296 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 2229 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673933801440	Marionette	INFO	Stopped listening on port 65015
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: C:\Users\nikub\AppData\Local\Temp\rust_mozprofileGtPBjk\protections.sqlite
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
