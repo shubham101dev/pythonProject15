@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bece7aad-aea9-4932-8197-5011e63ffc56" name="Changes" comment="" />
+    <list default="true" id="bece7aad-aea9-4932-8197-5011e63ffc56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/.idea/pythonProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/configuration/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/pageobject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/pageobject/loginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/testcases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/testcases/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/testcases/test_shubham.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/utilities/customlogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/utilities/readproperties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject15/Logs/sh.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject15/configuration/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject15/screenshots/any1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject15/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject15/utilities/customlogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject15/utilities/readproperties.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject10/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject10/.idea/pythonProject10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/.idea/pythonProject10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject10/Logs/sh.log" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/Logs/sh.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject10/testcases/test_secondpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/testcases/test_secondpage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject10/testcases/test_try1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/testcases/test_try1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject15/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject15/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject15/pageobjects/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject15/pageobjects/homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject15/testcases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject15/testcases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject15/testcases/test_mylogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject15/testcases/test_mylogin.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +42,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -76,6 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672984741729</updated>
       <workItem from="1674107952852" duration="886000" />
+      <workItem from="1674218733183" duration="1798000" />
     </task>
     <servers />
   </component>
