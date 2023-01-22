@@ -1,31 +1,24 @@
 from PageObjects.login_page import Login
 import time
-
+from utilities.customlogger import Logclass
 import pytest
 from selenium.webdriver.common.by import By
 
 @pytest.mark.usefixtures("setup")
-class Testlogin:
-
-    def test__001(self):
+class Testlogin():
+    logger=Logclass.getLogger()
+    @pytest.mark.parameterize("username,password",[("admin@yourstore.com","admin"),("shubham","admin"),("admin@yourstore.com","ad12")])
+    def test__001(self,username,password):
+        self.logger.info("***********testcase001")
         lg=Login(self.driver)
-        lg.input_username("admin@yourstore.com")
-        lg.input_password("admin")
+        lg.input_username(username)
+        lg.input_password(password)
         lg.button_login()
+        self.logger.info("****login successful***")
 
 
-    def test__002(self):
-        lg=Login(self.driver)
-        lg.input_username("shubham")
-        lg.input_password("abc123")
-        lg.button_login()
 
-    def test__003(self):
-        p=Login(self.driver)
-        p.input_username("admin@yourstore.com")
-        p.input_password("admin")
-        p.button_login()
-        p.click()
+
 
 
 

@@ -5,31 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bece7aad-aea9-4932-8197-5011e63ffc56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/.idea/pythonProject3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/configuration/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/pageobject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/pageobject/loginpage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/testcases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/testcases/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/testcases/test_shubham.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/utilities/customlogger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../newpycharmprojects/pythonProject3/utilities/readproperties.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject15/Logs/sh.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject15/configuration/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject15/screenshots/any1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject15/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject15/utilities/customlogger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject15/utilities/readproperties.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject10/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject10/.idea/pythonProject10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/.idea/pythonProject10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject10/Logs/sh.log" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/Logs/sh.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject10/testcases/test_secondpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/testcases/test_secondpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject10/testcases/test_try1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject10/testcases/test_try1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject15/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject15/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject15/pageobjects/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject15/pageobjects/homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject15/testcases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject15/testcases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject15/testcases/test_mylogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject15/testcases/test_mylogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject4/.idea/pythonProject4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject4/.idea/pythonProject4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject4/pageobjects/loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject4/pageobjects/loginpage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject4/testcases/Test_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject4/testcases/Test_py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject4/utilities/readproperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject4/utilities/readproperties.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nikub/PycharmProjects/pythonProject2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/nikub/PycharmProjects/shubham",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="shubham" />
@@ -106,6 +87,7 @@
       <updated>1672984741729</updated>
       <workItem from="1674107952852" duration="886000" />
       <workItem from="1674218733183" duration="1798000" />
+      <workItem from="1674283528329" duration="85000" />
     </task>
     <servers />
   </component>

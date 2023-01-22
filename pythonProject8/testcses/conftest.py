@@ -1,6 +1,11 @@
 import pytest
 from selenium import webdriver
-@pytest.fixture()
-def setup():
-    driver=webdriver.Chrome()
-    return driver
+driver=None
+@pytest.fixture
+def setup(request):
+    global driver
+    request.cls.driver=webdriver.Chrome()
+    request.cls.driver.get("https://practicetestautomation.com/practice-test-login/")
+    yield
+    reques.cls.driver.quit()
+
