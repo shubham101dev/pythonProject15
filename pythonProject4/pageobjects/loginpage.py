@@ -40,5 +40,11 @@ class AutoMation:
         return self.driver.find_element(By.ID,Readconfig.drop())
 
     def insert_click(self):
-        self.driver.find_element(By.XPATH,Readconfig.box2()).send_keys(Readconfig.name())
+        self.driver.find_element(By.XPATH,Readconfig.box2()).send_keys("nikhil")
+        self.driver.find_element(By.XPATH,Readconfig.alert_xpath()).click()
 
+    def
+
+#
+# (//tbody)[2]/tr
+# //div[@class='tableFixHead']//tbody/tr

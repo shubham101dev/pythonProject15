@@ -59,6 +59,9 @@ class Readconfig():
         return name
 
     @staticmethod
+    def alert_xpath():
+        button=config.get('button','alert')
+        return button
 
 
 

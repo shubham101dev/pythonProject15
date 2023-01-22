@@ -28,9 +28,15 @@ class Test():
         self.a.click_on_radio2()
         self.a.click_allcheckbox()
         self.a.textbox_1(value="shubham")
+        self.driver.save_screenshot(".\\screenshots\\" + "test2.png")
+        self.log.info("***********value insert*************")
         b=self.a.my_drop()
         c=Select(b)
         c.select_by_value("option2")
+        self.driver.save_screenshot(".\\screenshots\\" + "test3.png")
+        self.a.insert_click()
+
+        self.log.info("***********msg print*************")
         time.sleep(5)
 
 
