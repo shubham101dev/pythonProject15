@@ -28,3 +28,14 @@ class Readconfig:
         signin_xpath=config.get('login xpath','signin_xpath')
         return signin_xpath
 
+    @staticmethod
+    def get_username():
+        username=config.get('value','username')
+        return username
+
+    @staticmethod
+    def get_password():
+        password=config.get('value','password')
+        return password
+
+
